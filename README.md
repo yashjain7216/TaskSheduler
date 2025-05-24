@@ -23,7 +23,7 @@ localhost:8081/tasks
 
 This will return all the task entries.
 
-3. POST Api
+2. POST Api
 
 You can test the POST Api using Postman or cURL.
 Postman:
